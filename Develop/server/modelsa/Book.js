@@ -20,5 +20,9 @@ type Book {
     link: String
     title: String!
   }
+
+  type Query {
+      getBooks: [Book]
+  }
   `;
   module.exports=typeDefs;

@@ -2,10 +2,10 @@
   "name": "server",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "servera.js",
   "scripts": {
-    "start": "node server.js",
-    "watch": "nodemon server.js"
+    "start": "node servera.js",
+    "watch": "nodemon servera.js"
   },
   "keywords": [],
   "author": "",
